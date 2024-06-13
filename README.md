@@ -1,5 +1,5 @@
 # Clustering-Political-Posts
-Clustering Political Social Media Posts and visualizing with UMAP 
+Clustering Political Social Media Posts using kmeans and visualizing with UMAP 
 
 # What the project does?
 The goal is to cluster political messages from the dataset: [Political Social Media Posts](https://www.kaggle.com/datasets/crowdflower/political-social-media-posts)
